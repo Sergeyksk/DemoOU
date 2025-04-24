@@ -29,7 +29,7 @@
 				<xr:Item xsi:type="xr:MDObjectRef">CommonCommand.УстановитьСканерШтрихкодов</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">CommonCommand.НастроитьСканерШтрихКодов</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">CommonCommand.ОстаткиТоваровНаСкладахКоманда</xr:Item>
-				<xr:Item xsi:type="xr:MDObjectRef">Catalog.Справочник2</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">b83f622b-fad5-44ee-8f3b-1b41fcb36a76</xr:Item>
 			</Content>
 		</Properties>
 		<ChildObjects/>
