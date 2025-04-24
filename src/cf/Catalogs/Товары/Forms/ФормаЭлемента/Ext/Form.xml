@@ -356,6 +356,26 @@
 						</Pages>
 					</ChildItems>
 				</Page>
+				<Page name="Группа1" id="69">
+					<ExtendedTooltip name="Группа1РасширеннаяПодсказка" id="70"/>
+					<ChildItems>
+						<InputField name="Поставщик1" id="71">
+							<DataPath>Объект.Поставщик</DataPath>
+							<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
+							<ContextMenu name="Поставщик1КонтекстноеМеню" id="72"/>
+							<ExtendedTooltip name="Поставщик1РасширеннаяПодсказка" id="73"/>
+							<Events>
+								<Event name="OnChange">Поставщик1ПриИзменении</Event>
+							</Events>
+						</InputField>
+						<InputField name="Вид1" id="74">
+							<DataPath>Объект.Вид</DataPath>
+							<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
+							<ContextMenu name="Вид1КонтекстноеМеню" id="75"/>
+							<ExtendedTooltip name="Вид1РасширеннаяПодсказка" id="76"/>
+						</InputField>
+					</ChildItems>
+				</Page>
 			</ChildItems>
 		</Pages>
 	</ChildItems>
